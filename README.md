@@ -9,6 +9,7 @@
 
 ## Pre-Requisite
 -jdk-11.0.18 (java)
+-Link(https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html#license-lightbox)
 
 ## How to run this project:
 - Clone this project
